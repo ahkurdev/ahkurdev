@@ -1,7 +1,10 @@
 <div align="center">
+
 <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=30&pause=1000&color=02D9F7&center=true&vCenter=true&width=700&lines=Building+Clean+and+Scalable+Code;Turning+Ideas+Into+Working+Software;Software+Developer+%7C+Problem+Solver" alt="Typing SVG" />
+
 <img src="https://img.shields.io/github/followers/ahkurdev?style=social" alt="GitHub Followers" />
 <img src="https://img.shields.io/github/stars/ahkurdev?style=social" alt="GitHub Stars" />
+
 </div>
 
 <br>
@@ -36,15 +39,16 @@
 </p>
 
 <div align="center">
-<img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=ahkurdev&show_icons=true&count_private=true&hide_border=true&title_color=02D9F7&icon_color=02D9F7&text_color=c9d1d9&bg_color=0d1117" alt="Ahkurdev github stats" />
-<img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahkurdev&layout=compact&hide_border=true&title_color=02D9F7&text_color=02D9F7&bg_color=0d1117" alt="Top Languages" />
+
+<img width="49%" height="195px" src="./profile/stats.svg" alt="Ahkurdev GitHub Stats" />
+
+<img width="41%" height="195px" src="./profile/top-langs.svg" alt="Top Languages" />
+
 </div>
 
-<p align="center">
-<img src="https://streak-stats.demolab.com?user=ahkurdev&theme=tokyonight&hide_border=true" alt="Streak Stats" />
-</p>
+<br>
 
-<h2 align="center">Tech Stack</h2>
+## Tech Stack
 
 <h4 align="center">Languages</h4>
 
@@ -69,6 +73,7 @@
 ## Skills
 
 <p align="center">
+
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="48" title="Python" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="48" title="Java" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="48" title="C" />
@@ -76,6 +81,9 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="48" title="JavaScript" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="48" title="TypeScript" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/lua/lua-original.svg" width="48" title="Lua" />
+
+<br><br>
+
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="48" title="HTML5" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="48" title="CSS3" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="48" title="React" />
@@ -83,15 +91,22 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-original.svg" width="48" title="Nest.js" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vitejs/vitejs-original.svg" width="48" title="Vite" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" width="48" title="Bootstrap" />
+
+<br><br>
+
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg" width="48" title="Dart" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" width="48" title="Flutter" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="48" title="MongoDB" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="48" title="PostgreSQL" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mariadb/mariadb-original.svg" width="48" title="MariaDB" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="48" title="MySQL" />
+
+<br><br>
+
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="48" title="Git" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gitlab/gitlab-original.svg" width="48" title="GitLab" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="48" title="VS Code" />
+
 </p>
 
 <br>
@@ -125,6 +140,8 @@
 </a>
 
 </div>
+
+<br>
 
 <h2 align="center">Visitors</h2>
 

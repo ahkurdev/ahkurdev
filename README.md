@@ -38,8 +38,8 @@
 </p>
 
 <div align="center">
-<img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=ahkurdev&show_icons=true&count_private=true&hide_border=true&title_color=02D9F7&icon_color=02D9F7&text_color=c9d1d9&bg_color=0d1117" alt="Ahkurdev github stats" />
-<img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahkurdev&layout=compact&hide_border=true&title_color=02D9F7&text_color=02D9F7&bg_color=0d1117" />
+<img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=ahkurdev&show_icons=true&hide_border=true&title_color=02D9F7&icon_color=02D9F7&text_color=c9d1d9&bg_color=0d1117&cache_seconds=86400&v=1" alt="Ahkurdev github stats" />
+<img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahkurdev&layout=compact&hide_border=true&title_color=02D9F7&text_color=02D9F7&bg_color=0d1117&cache_seconds=86400&v=1" alt="Top Languages" />
 </div>
 
 <p align="center">

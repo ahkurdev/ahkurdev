@@ -23,7 +23,7 @@
 ## GitHub Trophies
 
 <p align="center">
-<img src="https://github-profile-trophy-orcin-eta.vercel.app/?username=ahkurdev&theme=darkhub&no-frame=true&column=7&margin-w=10&margin-h=10" alt="Trophies" />
+<img src="https://github-profile-trophy-orcin-eta.vercel.app/?username=ahkurdev&theme=dark&no-frame=true&column=7&margin-w=10&margin-h=10" alt="Trophies" />
 </p>
 
 <br>

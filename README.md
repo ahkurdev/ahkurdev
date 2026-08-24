@@ -23,14 +23,14 @@
 ## GitHub Trophies
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=ahkurdev&theme=darkhub&no-frame=true&column=7&margin-w=10&margin-h=10" />
+<img src="https://github-profile-trophy.vercel.app/?username=ahkurdev&theme=darkhub&no-frame=true&column=7&margin-w=10&margin-h=10" alt="Trophies" />
 </p>
 
 <br>
 
 <h1 align="center">Github Metrics</h1>
 <p align="center">
-<img width="725em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ahkurdev&theme=github_dark" />
+<img width="725em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ahkurdev&theme=github_dark" alt="Profile Details" />
 </p>
 
 <p align="center">
@@ -38,8 +38,8 @@
 </p>
 
 <div align="center">
-<img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=ahkurdev&show_icons=true&hide_border=true&title_color=02D9F7&icon_color=02D9F7&text_color=c9d1d9&bg_color=0d1117&cache_seconds=86400&v=1" alt="Ahkurdev github stats" />
-<img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahkurdev&layout=compact&hide_border=true&title_color=02D9F7&text_color=02D9F7&bg_color=0d1117&cache_seconds=86400&v=1" alt="Top Languages" />
+<img width="49%" height="195px" src="https://github-readme-stats-jet-tau-87.vercel.app/api?username=ahkurdev&show_icons=true&hide_border=true&title_color=02D9F7&icon_color=02D9F7&text_color=c9d1d9&bg_color=0d1117" alt="Ahkurdev github stats" />
+<img width="41%" height="195px" src="https://github-readme-stats-jet-tau-87.vercel.app/api/top-langs/?username=ahkurdev&layout=compact&hide_border=true&title_color=02D9F7&text_color=02D9F7&bg_color=0d1117" alt="Top Languages" />
 </div>
 
 <p align="center">
@@ -65,48 +65,10 @@
 
 <br>
 
-## Skills
-
-<p align="center">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="48" title="Python" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="48" title="Java" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="48" title="C" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="48" title="C++" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="48" title="JavaScript" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="48" title="TypeScript" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/lua/lua-original.svg" width="48" title="Lua" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="48" title="HTML5" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="48" title="CSS3" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="48" title="React" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" width="48" title="Next.js" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-original.svg" width="48" title="Nest.js" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vitejs/vitejs-original.svg" width="48" title="Vite" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" width="48" title="Bootstrap" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg" width="48" title="Dart" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" width="48" title="Flutter" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="48" title="MongoDB" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="48" title="PostgreSQL" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mariadb/mariadb-original.svg" width="48" title="MariaDB" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="48" title="MySQL" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="48" title="Git" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gitlab/gitlab-original.svg" width="48" title="GitLab" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="48" title="VS Code" />
-</p>
-
-<br>
-
 ## Contribution Snake
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
-</p>
-
-<br>
-
-## GitHub Activity Overview
-
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ahkurdev&bg_color=0d1117&color=ffffff&line=02D9F7&point=ffffff&area=true&hide_border=true&custom_title=Contribution%20Graph" />
+<img src="https://raw.githubusercontent.com/ahkurdev/ahkurdev/output/dist/github-contribution-grid-snake-dark.svg" alt="Contribution Snake" />
 </p>
 
 <br>

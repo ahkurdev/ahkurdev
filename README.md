@@ -65,13 +65,6 @@
 
 <br>
 
-## Contribution Snake
-
-<p align="center">
-<img src="https://raw.githubusercontent.com/ahkurdev/ahkurdev/output/dist/github-contribution-grid-snake-dark.svg" alt="Contribution Snake" />
-</p>
-
-<br>
 
 <h2 align="center">Connect With Me</h2>
 

@@ -33,9 +33,7 @@
 <img width="725em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ahkurdev&theme=github_dark" alt="Profile Details" />
 </p>
 
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ahkurdev&bg_color=0d1117&color=02D9F7&line=02D9F7&point=ffffff&area=true&hide_border=true" alt="Activity Graph" />
-</p>
+
 
 <div align="center">
 <img width="49%" height="195px" src="https://github-readme-stats-jet-tau-87.vercel.app/api?username=ahkurdev&show_icons=true&hide_border=true&title_color=02D9F7&icon_color=02D9F7&text_color=c9d1d9&bg_color=0d1117" alt="Ahkurdev github stats" />

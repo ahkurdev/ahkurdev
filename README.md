@@ -22,15 +22,6 @@
 
 <br>
 
-## Featured Projects
-
-| Project | About | Stack |
-| --- | --- | --- |
-| [**Hikalist**](https://github.com/ahkurdev/Hikalist) | Calm Windows desktop music player — streaming search, synced lyrics, collaborative playlists, offline mode, Spotify import, Discord Rich Presence | Kotlin · Compose Desktop · Supabase |
-| [**web-hikalist**](https://github.com/ahkurdev/web-hikalist) | Companion web client for the Hikalist ecosystem — [live demo](https://web-hikalist-allans-projects-f2f44acb.vercel.app) | TypeScript · React · Vercel |
-| [**DOT-LAYER**](https://github.com/ahkurdev/DOT-LAYER) | Always-on-top crosshair overlay for Windows — global hotkeys, click-through input, anti-capture rendering | Python · Win32 · Tkinter |
-
-<br>
 
 ## GitHub Trophies
 

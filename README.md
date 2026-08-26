@@ -32,14 +32,6 @@
 
 <br>
 
-## Contribution Graph
-
-<p align="center">
-<img src="https://ghchart.rshah.org/8B76FF/ahkurdev" width="100%" alt="Contribution calendar" />
-</p>
-
-<br>
-
 ## GitHub Trophies
 
 <p align="center">
